@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    --blue: #1992d4;
+    --white: #ffff;
+    --gray: #e2e8f0;
+    --yellow: #f0b429;
+}
+
+.header{
+    background-color: var(--white);
+}
+
+.sidebar{
+    background-color: var(--blue);
+}
+
+.main-content{
+    background-color: var(--gray);
+}
